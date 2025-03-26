@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... cybersecurity and AI topics
 - 📫 How to reach me ... message me!
 - 😄 Pronouns: ... She/They  
-- ⚡ Fun fact: ... In my past life I was a fully certified welder and metal fabricator. 
+- ⚡ Fun fact: ... In my past life I was a welder and metal fabricator. 
 
 <!---
 ITMason/ITMason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
